@@ -14,5 +14,5 @@ This repository contains end-to-end extraction results tested across three highl
 # How to Install Dependencies
 To configure your local execution workspace environment to run this notebook script, install the verified dependency packages specified in the root index folder using pip:
 
-```bash
+```basH
 pip install -r requirements.txt
