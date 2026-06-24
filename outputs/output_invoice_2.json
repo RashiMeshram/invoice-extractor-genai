@@ -1,0 +1,24 @@
+{
+    "invoice_number": "X-7",
+    "invoice_date": "21-06-2018",
+    "due_date": "28-06-2018",
+    "billed_by": "SC Aissac SRL",
+    "billed_to": "Test Client US",
+    "line_items": [
+        {
+            "item": "Mouse Z3 44mm, optical, black",
+            "amount": "1319.07"
+        },
+        {
+            "item": "Shipping & Packaging charges",
+            "amount": "17.59"
+        }
+    ],
+    "subtotal": null,
+    "discount": null,
+    "tax_or_gst": null,
+    "total_amount": "1336.66",
+    "currency": "USD",
+    "payment_method": null,
+    "notes": "To be paid in full in maximum 7 days after receiving the invoice. Warranty: 30 days from receiving items. Supply meant for export on payment of integrated tax."
+}

@@ -1,0 +1,24 @@
+{
+    "invoice_number": "CTO0001",
+    "invoice_date": "01-01-2021",
+    "due_date": null,
+    "billed_by": "Defmacro Software Dilip Merugu Put. Ltd",
+    "billed_to": null,
+    "line_items": [
+        {
+            "item": "UI/UN Design for eb & nobile phase",
+            "amount": "1200.0"
+        },
+        {
+            "item": "UI/UX Design for web nob1le phase",
+            "amount": "1200.0e"
+        }
+    ],
+    "subtotal": "10,000.00",
+    "discount": null,
+    "tax_or_gst": "4,880.00",
+    "total_amount": "14,880.00",
+    "currency": "INR",
+    "payment_method": "UPI",
+    "notes": "It was a pleasure doing business with you. Thank you! Clear One."
+}

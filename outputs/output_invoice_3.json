@@ -1,0 +1,32 @@
+{
+    "invoice_number": "6",
+    "invoice_date": "13-09-2018",
+    "due_date": "13-10-2018",
+    "billed_by": "Alpha Computer",
+    "billed_to": "Alan TEST",
+    "line_items": [
+        {
+            "item": "Backpack Bags",
+            "amount": "11,186.40"
+        },
+        {
+            "item": "hp All ín one 20-comDl",
+            "amount": "24,152.54"
+        },
+        {
+            "item": "Hp Headphones BABOS Wired",
+            "amount": "2,203.36"
+        },
+        {
+            "item": "shipping & Packaging",
+            "amount": "236.00"
+        }
+    ],
+    "subtotal": "37,778.30",
+    "discount": null,
+    "tax_or_gst": null,
+    "total_amount": "37,778",
+    "currency": "INR",
+    "payment_method": "Bank Transfer",
+    "notes": "Rounded off by 0.30. Supply meant for export under bond or letter of undertaking without payment of integrated tax."
+}
