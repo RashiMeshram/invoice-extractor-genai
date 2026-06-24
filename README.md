@@ -9,7 +9,7 @@ This repository contains end-to-end extraction results tested across three highl
 
 1. Defmacro Software Pvt. Ltd (Service Layout)
 2. SSLEEK BILL / SC Aissac SRL (Export/Product Layout)
-3. *Alpha Computer (Hardware/Retail Supply Layout)
+3. Alpha Computer (Hardware/Retail Supply Layout)
 
 # How to Install Dependencies
 To configure your local execution workspace environment to run this notebook script, install the verified dependency packages specified in the root index folder using pip:
